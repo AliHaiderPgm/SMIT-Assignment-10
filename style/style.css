@@ -1,0 +1,47 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.circle{
+    height: 12px;
+    width: 12px;
+    border-radius: 7px;
+    background: orange;
+    box-shadow: 0px 0px 0 2px white,
+                0px 0px 0 10px rgb(0, 218, 134);
+}
+#shortLine{
+    height: 2px;
+    width: 30px;
+    border-radius: 7px;
+    background: black;
+}
+.maxBtnWidth{
+    width: 100%;
+}
+.textAlignJustify{
+    text-align: justify;
+}
+
+.cstmCard{
+    position: absolute;
+    bottom: -50px;
+    left: -2px;
+    border-radius: 7px;
+    background: white;
+    padding: 10px 30px 5px 5px;
+    cursor: pointer;
+}
+.stars{
+    color: orange;
+    font-size: 1.3rem;
+}
+.image{
+    padding-left: 20%;
+}
+
+.fa-brands{
+    margin: 0px 20px;
+}
+
+
+/* Media queries */

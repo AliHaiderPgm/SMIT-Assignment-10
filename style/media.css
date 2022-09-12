@@ -1,0 +1,36 @@
+@media screen and (max-width:575.98px){
+    .mr-xsm--3{
+        margin-right: -15px;
+    }
+    .ml-xsm-1{
+        margin-left: 5px;
+    }
+    .media-row-one{
+        flex-direction: column-reverse;
+    }
+    .shortLineMargin{
+        margin: 25px 0px;
+    }
+    .btnPaddingAndMargin{
+        padding: 10px;
+        margin: 10px;
+    }
+    .BtnPL-0{
+        padding: 10px;
+        margin-left: 0px;
+    }
+    .marginBottom{
+        margin-bottom: 15px;
+    }
+
+    .media-row-second{
+        flex-direction: column;
+    }
+
+    .paddingLeft{
+        padding-left: 30px;
+    }
+    .my-xsm{
+        margin: 20px 0px;
+    }
+}
